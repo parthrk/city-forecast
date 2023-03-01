@@ -1,6 +1,9 @@
-Please follow below steps to set up project in your local
+Please follow below steps to set up project in your local 
 
-Prerequisites: Docker has to be installed
+Prerequisites: 
+- Docker has to be installed
+
+Note: These commands to be run inside wsl terminal if you are running windows
 
 1. git clone https://github.com/parthrk/city-forecast.git
 2. cd city-forecast
