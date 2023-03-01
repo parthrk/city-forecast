@@ -14,3 +14,4 @@ Note: These commands to be run inside wsl terminal if you are running windows
 7. ./vendor/bin/sail artisan migrate
 8. ./vendor/bin/sail npm install
 9. ./vendor/bin/sail npm run dev
+10. Open http://localhost in browser
